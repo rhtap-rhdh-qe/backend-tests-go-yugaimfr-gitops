@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/backend-tests-go-yugaimfr:azure-0a5a42696f2bd13948b9907f99c91a52d3230807
+        - image: quay.io/rhtap_qe/backend-tests-go-yugaimfr:azure-0d12e2b66cc6d178313f4cecde5e5a75f7afd405
           name: container-image
